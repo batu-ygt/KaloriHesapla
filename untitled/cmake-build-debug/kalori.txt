@@ -1,0 +1,11 @@
+Balik 350
+Borek 300
+Hamburger 240
+Makarna 350
+Kabak 70
+Patates 200
+Pilav 300
+Tatli 400
+Turlu 200
+Ayran 70 
+Kola 110
